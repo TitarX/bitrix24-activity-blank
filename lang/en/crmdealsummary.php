@@ -1,0 +1,4 @@
+<?php
+$MESS['ERROR_MESSAGE_EMPTY_CONTACT_ID'] = 'Contact ID not passed';
+$MESS['CONTACT_ID_PROP_NAME'] = 'Contact ID';
+$MESS['CONTACT_ID_PROP_DESCRIPTION'] = 'Contact ID';
